@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/6BYNbJr' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://github.com/Riddhi0506/Codepath_prework/blob/main/9JEO3nX1e1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [RECORDIT](http://g.recordit.co/9JEO3nX1e1.gif).
 
